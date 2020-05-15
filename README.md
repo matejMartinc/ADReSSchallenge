@@ -1,4 +1,4 @@
-# Code for paper Tackling the ADReSS challenge: a multi-view approach to the automated recognition of Alzheimer’s dementia #
+# Code for paper Tackling the ADReSS challenge: a multimodal approach to the automated recognition of Alzheimer’s dementia #
 
 
 ## Installation, documentation ##
