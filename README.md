@@ -1,6 +1,6 @@
 # Code for paper Tackling the ADReSS challenge: a multimodal approach to the automated recognition of Alzheimer’s dementia: http://www.interspeech2020.org/uploadfile/pdf/Wed-SS-1-6-1.pdf #
 
-Please cite the following paper [[bib](https://github.com/matejMartinc/ADReSSchallenge/bibtex.js)] if you use this code:
+Please cite the following paper [[bib](https://github.com/matejMartinc/ADReSSchallenge/blob/master/bibtex.js)] if you use this code:
 
 Martinc, Matej, and Senja Pollak. "Tackling the ADReSS challenge: a multimodal approach to the automated recognition of Alzheimer’s dementia." Proc. Interspeech 2020 (2020): 2157-2161.
 
